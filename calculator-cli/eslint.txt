@@ -1,0 +1,7 @@
+//ESlint and its TypeScript extensions:
+npm install --save-dev eslint @eslint/js @types/eslint__js typescript typescript-eslint
+
+//we should try to get familiar with the coding style required in this part and set the semicolon at the end of each line of code to be required. For that, we should install and configure @stylistic/eslint-plugin:
+npm i -D @stylistic/eslint-plugin
+
+
